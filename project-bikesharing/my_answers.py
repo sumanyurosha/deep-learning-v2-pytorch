@@ -20,15 +20,15 @@ class NeuralNetwork(object):
         #
         # Note: in Python, you can define a function with a lambda expression,
         # as shown below.
-        self.activation_function = lambda x : 1/(1 + np.exp(-x))  # Replace 0 with your sigmoid calculation.
+        #self.activation_function = lambda x : 1/(1 + np.exp(-x))  # Replace 0 with your sigmoid calculation.
         
         ### If the lambda code above is not something you're familiar with,
         # You can uncomment out the following three lines and put your 
         # implementation there instead.
         #
-        #def sigmoid(x):
-        #    return 0  # Replace 0 with your sigmoid calculation here
-        #self.activation_function = sigmoid
+        def sigmoid(x):
+            return 1/(1 + np.exp(-x))  # Replace 0 with your sigmoid calculation here
+        self.activation_function = sigmoid
                     
 
     def train(self, features, targets):
@@ -161,7 +161,7 @@ class NeuralNetwork(object):
 #########################################################
 # Set your hyperparameters here
 ##########################################################
-iterations = 2000
+iterations = 1500
 learning_rate = 0.1
-hidden_nodes = 15
+hidden_nodes = 7
 output_nodes = 1
