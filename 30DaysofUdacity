@@ -1,6 +1,11 @@
+#30daysofUdacity
+
 Day 1:
 21/10/2019
   1. Watched the first 18 videos of lesson 1 of Module 3.
   2. Implemented model validation for MNIST dataset classification.
 
-#30DaysOfUdacity
+Day 2:
+22/10/2019
+  1. Watching the next videos of CNNs.
+  2. Knowing about edges & filters and how CNNs try to identify them from an image using the frequency changes.
