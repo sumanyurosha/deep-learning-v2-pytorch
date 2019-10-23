@@ -9,3 +9,8 @@ Day 2:
 22/10/2019
   1. Watching the next videos of CNNs.
   2. Knowing about edges & filters and how CNNs try to identify them from an image using the frequency changes.
+
+Day 3:
+23/10/2019
+  1. Learned about Convolutional and Pooling layers today.
+  2. Got to know more about visualisation of convolution layers through this blog: http://setosa.io/ev/image-kernels/
