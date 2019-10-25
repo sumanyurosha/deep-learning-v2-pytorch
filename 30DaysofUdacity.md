@@ -15,12 +15,12 @@
   1. Learned about Convolutional and Pooling layers today.
   2. Got to know more about visualisation of convolution layers through this blog: http://setosa.io/ev/image-kernels/
  
-Day 4:
+# Day 4:
 24/10/2019
   1. Applied Convolution and Max Pooling to images.
   2. Watched till video 39 of lesson 1 of 3rd Module - CNN
   
-Day 5:
+# Day 5:
 25/10/2019
   1. Working on CIFAR-10 dataset and was able to achieve an Accuracy of 70%.
     ************************Output Log of my model**********************
@@ -41,4 +41,4 @@ Day 5:
     *********************************************************************
 
   2. Saw a [tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py) on CIFAR Classification problem 
-  3. Reading a (research paper)[https://arxiv.org/pdf/1603.07285.pdf] on CNN
+  3. Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN
