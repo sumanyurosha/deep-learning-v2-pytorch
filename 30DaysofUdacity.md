@@ -1,4 +1,4 @@
-# #30daysofUdacity
+# #30daysOfUdacity
 
 # Day 1:
 21/10/2019
@@ -42,3 +42,8 @@
 
   2. Saw a [tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py) on CIFAR Classification problem 
   3. Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN
+  
+ # Day 6:
+ 26/10/2019
+  1. Reading the research paper.
+  2. Continued watching the next videos in the lesson
