@@ -47,3 +47,7 @@
  26/10/2019
   1. Reading the research paper.
   2. Continued watching the next videos in the lesson
+  
+ # Day 7-9:
+ 28/10/2019 to 30/10/2019
+  Watching Transfer Learning lesson, not able to work much becuse of Diwali holidays.
