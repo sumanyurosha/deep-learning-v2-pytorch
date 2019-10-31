@@ -51,3 +51,9 @@
  # Day 7-9:
  28/10/2019 to 30/10/2019
   Watching Transfer Learning lesson, not able to work much becuse of Diwali holidays.
+  
+ # Day 10"
+ 31/10/2019
+  1. Completed the Transfer Learning lessons.
+  2. Using Transfer Learning to train my network for Flower Classification Mini Project.
+  3. Able to achieve an accuracy of 76%.
