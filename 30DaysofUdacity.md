@@ -1,28 +1,28 @@
 # #30daysOfUdacity
 
-# Day 1:
+## Day 1:
 21/10/2019
-  1. Watched the first 18 videos of lesson 1 of Module 3.
-  2. Implemented model validation for MNIST dataset classification.
+  * Watched the first 18 videos of lesson 1 of Module 3.
+  * Implemented model validation for MNIST dataset classification.
 
-# Day 2:
+## Day 2:
 22/10/2019
-  1. Watching the next videos of CNNs.
-  2. Knowing about edges & filters and how CNNs try to identify them from an image using the frequency changes.
+  * Watching the next videos of CNNs.
+  * Knowing about edges & filters and how CNNs try to identify them from an image using the frequency changes.
 
-# Day 3:
+## Day 3:
 23/10/2019
-  1. Learned about Convolutional and Pooling layers today.
-  2. Got to know more about visualisation of convolution layers through this blog: http://setosa.io/ev/image-kernels/
+  * Learned about Convolutional and Pooling layers today.
+  * Got to know more about visualisation of convolution layers through this blog: http://setosa.io/ev/image-kernels/
  
-# Day 4:
+## Day 4:
 24/10/2019
-  1. Applied Convolution and Max Pooling to images.
-  2. Watched till video 39 of lesson 1 of 3rd Module - CNN
+  * Applied Convolution and Max Pooling to images.
+  * Watched till video 39 of lesson 1 of 3rd Module - CNN
   
-# Day 5:
+## Day 5:
 25/10/2019
-  1. Working on CIFAR-10 dataset and was able to achieve an Accuracy of 70%.
+  * Working on CIFAR-10 dataset and was able to achieve an Accuracy of 70%.
     ************************Output Log of my model**********************
     Test Loss: 0.860405
 
@@ -40,20 +40,34 @@
     Test Accuracy (Overall): 70% (7011/10000)
     *********************************************************************
 
-  2. Saw a [tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py) on CIFAR Classification problem 
-  3. Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN
+  * Saw a [tutorial](https://github.com/pytorch/tutorials/blob/master/beginner_source/blitz/cifar10_tutorial.py) on CIFAR Classification problem 
+  * Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN
   
- # Day 6:
+ ## Day 6:
  26/10/2019
-  1. Reading the research paper.
-  2. Continued watching the next videos in the lesson
+  * Reading the research paper.
+  * Continued watching the next videos in the lesson
   
- # Day 7-9:
+ ## Day 7-9:
  28/10/2019 to 30/10/2019
-  Watching Transfer Learning lesson, not able to work much becuse of Diwali holidays.
+  * Watching Transfer Learning lesson, not able to work much becuse of Diwali holidays.
   
- # Day 10:
+ ## Day 10:
  31/10/2019
-  1. Completed the Transfer Learning lessons.
-  2. Using Transfer Learning to train my network for Flower Classification Mini Project.
-  3. Able to achieve an accuracy of 76%.
+  * Completed the Transfer Learning lessons.
+  * Using Transfer Learning to train my network for Flower Classification Mini Project.
+  * Able to achieve an accuracy of 76%.
+  
+ ## Day 11:
+ 01/11/2019
+  * Started the new lesson Weight Initialisations in CNN.
+  * Trained my Flowe Classification Mini Project for 25 epochs and able to achieve an accuracy of 83%
+    Test Loss: 0.459630
+
+    Test Accuracy of daisy: 82% (76/92)
+    Test Accuracy of dandelion: 91% (121/132)
+    Test Accuracy of roses: 74% (68/91)
+    Test Accuracy of sunflowers: 91% (92/101)
+    Test Accuracy of tulips: 75% (94/124)
+
+    Test Accuracy (Overall): 83% (451/540)
