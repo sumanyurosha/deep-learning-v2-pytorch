@@ -24,17 +24,27 @@
 25/10/2019
   * Working on CIFAR-10 dataset and was able to achieve an Accuracy of 70%.
     ************************Output Log of my model**********************
+    
     Test Loss: 0.860405
 
     Test Accuracy of airplane: 69% (699/1000)
+    
     Test Accuracy of automobile: 74% (742/1000)
+    
     Test Accuracy of  bird: 60% (600/1000)
+    
     Test Accuracy of   cat: 36% (367/1000)
+    
     Test Accuracy of  deer: 74% (742/1000)
+    
     Test Accuracy of   dog: 64% (644/1000)
+    
     Test Accuracy of  frog: 75% (758/1000)
+    
     Test Accuracy of horse: 74% (744/1000)
+    
     Test Accuracy of  ship: 85% (852/1000)
+    
     Test Accuracy of truck: 86% (863/1000)
 
     Test Accuracy (Overall): 70% (7011/10000)
@@ -62,12 +72,17 @@
  01/11/2019
   * Started the new lesson Weight Initialisations in CNN.
   * Trained my Flowe Classification Mini Project for 25 epochs and able to achieve an accuracy of 83%
+    
     Test Loss: 0.459630
 
     Test Accuracy of daisy: 82% (76/92)
+    
     Test Accuracy of dandelion: 91% (121/132)
+    
     Test Accuracy of roses: 74% (68/91)
+    
     Test Accuracy of sunflowers: 91% (92/101)
+    
     Test Accuracy of tulips: 75% (94/124)
 
     Test Accuracy (Overall): 83% (451/540)
