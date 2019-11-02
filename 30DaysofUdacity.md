@@ -86,3 +86,7 @@
     Test Accuracy of tulips: 75% (94/124)
 
     Test Accuracy (Overall): 83% (451/540)
+    
+  ## Day 12:
+  02/11/2019
+   * Started working on Project 2: Dog Breed Classifier. 
