@@ -90,3 +90,10 @@
   ## Day 12:
   02/11/2019
    * Started working on Project 2: Dog Breed Classifier. 
+   
+  ## Day 13:
+  03/11/2019
+   * Working on Project 2: Dog Breed Classifier.
+   * Done till Question number 3, working on Question 4.
+   * Used a VGG16 model for detecting dog vs human.
+   * Creating a CNN from scratch to classify dog breeds.
