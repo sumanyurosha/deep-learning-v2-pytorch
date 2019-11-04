@@ -97,3 +97,8 @@
    * Done till Question number 4.
    * Used a VGG16 model for detecting dog vs human.
    * Creating a CNN from scratch to classify dog breeds.
+   
+  ## Day 14:
+  04/11/2019
+   * Training my scratch model for 100 epochs to get a decent accuracy.
+   * Had a 1:1 with my mentor today. 
