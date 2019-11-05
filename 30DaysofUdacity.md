@@ -102,3 +102,9 @@
   04/11/2019
    * Training my scratch model for 100 epochs to get a decent accuracy.
    * Had a 1:1 with my mentor today. 
+   
+  ## Day 15:
+  05/11/2019
+   * Finally I was able to get more than 10% accuracy for my scratch model.
+   * Now using Resnet18 for Transfer Learning and training it's classifier.
+   * Aiming to submit my project tonight!
