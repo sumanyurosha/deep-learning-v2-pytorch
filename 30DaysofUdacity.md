@@ -108,3 +108,10 @@
    * Finally I was able to get more than 10% accuracy for my scratch model.
    * Now using Resnet18 for Transfer Learning and training it's classifier.
    * Aiming to submit my project tonight!
+ ## Day 16:
+ 06/11/2019
+
+  * Still working on Project 2: Dog breed classification.
+  * Stuck in model selection for transfer learning since Resnet18 and vgg16 are not giving good results.
+  * Trying some hyper parameter tuning.
+
