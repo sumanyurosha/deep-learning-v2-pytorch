@@ -114,4 +114,8 @@
   * Still working on Project 2: Dog breed classification.
   * Stuck in model selection for transfer learning since Resnet18 and vgg16 are not giving good results.
   * Trying some hyper parameter tuning.
+  
+ ## Day 17:
+ 07/11/2019
+  * My project is complete and I am finally submitting it.
 
