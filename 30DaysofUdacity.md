@@ -118,4 +118,13 @@
  ## Day 17:
  07/11/2019
   * My project is complete and I am finally submitting it.
+  
+ ## Day 18:
+ 08/11/2019
+  * Finally, I passed my 2nd Project Dog Breed Classification.
+  * Didn't got much time to study.
 
+ ## Day 19:
+ 09/11/2019
+ * Started working on the next lessons.
+ * Started working on next project based on my Github profile Optimization.
