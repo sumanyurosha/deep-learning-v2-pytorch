@@ -121,7 +121,7 @@
   
  ## Day 18:
  08/11/2019
-  * Finally, I passed my 2nd Project Dog Breed Classification.
+  * Finally, I passed my 2nd Project Dog Breed Classification. Link to [repo](https://github.com/sumanyurosha/deep-learning-v2-pytorch/tree/master/project-dog-classification)
   * Didn't got much time to study.
 
  ## Day 19:
