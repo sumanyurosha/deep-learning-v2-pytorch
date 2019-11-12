@@ -128,3 +128,7 @@
  09/11/2019
  * Started working on the next lessons.
  * Started working on next project based on my Github profile Optimization.
+
+ ## Day 20-22:
+ 12/11/2019
+ * Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN Arithmetic.
