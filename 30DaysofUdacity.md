@@ -132,3 +132,9 @@
  ## Day 20-22:
  12/11/2019
  * Reading a [research paper](https://arxiv.org/pdf/1603.07285.pdf) on CNN Arithmetic.
+ 
+ ## Day 23:
+ 13/11/2019
+ * Continued reading the research paper mentioned above. Will try to complete it tomorrow.
+ * Watched a [course](https://classroom.udacity.com/courses/ud777) on writting a README and it's importance.
+ * Watching videos on improving GitHub profile.
