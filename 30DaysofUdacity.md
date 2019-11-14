@@ -138,3 +138,8 @@
  * Continued reading the research paper mentioned above. Will try to complete it tomorrow.
  * Watched a [course](https://classroom.udacity.com/courses/ud777) on writting a README and it's importance.
  * Watching videos on improving GitHub profile.
+ 
+ ## Day 24:
+ * Submitted and passed my Project 3, GitHub Profile Optimization.
+ * Had a 1:1 catch-up with my Mentor and discussed about RNNs.
+ * Starting watching lessons on RNN.
