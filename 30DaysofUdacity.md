@@ -143,3 +143,6 @@
  * Submitted and passed my Project 3, GitHub Profile Optimization.
  * Had a 1:1 catch-up with my Mentor and discussed about RNNs.
  * Starting watching lessons on RNN.
+ 
+ ## Day 25:
+ * Working with RNNs.
