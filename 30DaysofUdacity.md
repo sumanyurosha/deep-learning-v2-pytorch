@@ -140,9 +140,11 @@
  * Watching videos on improving GitHub profile.
  
  ## Day 24:
+ 14/11/2019
  * Submitted and passed my Project 3, GitHub Profile Optimization.
  * Had a 1:1 catch-up with my Mentor and discussed about RNNs.
  * Starting watching lessons on RNN.
  
  ## Day 25:
+ 15/11/2019
  * Working with RNNs.
