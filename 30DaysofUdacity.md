@@ -148,3 +148,9 @@
  ## Day 25:
  15/11/2019
  * Working with RNNs.
+ 
+ ## Day 26:
+ 16/11/2019
+ * Started to work on Weight Initializations lesson.
+ * Studing the architecture of VGG.
+ * Continues watching RNN lesson videos.
