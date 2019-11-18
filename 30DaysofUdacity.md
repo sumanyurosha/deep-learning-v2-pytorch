@@ -150,7 +150,12 @@
  * Working with RNNs.
  
  ## Day 26:
- 16/11/2019
+ 17/11/2019
  * Started to work on Weight Initializations lesson.
  * Studing the architecture of VGG.
  * Continues watching RNN lesson videos.
+ 
+ ## Day 27:
+ 18/11/2019
+ * Working on Back Propagation Through Time BPTT in Recurrent Neural Networks lesson.
+ * Read some brilliant resources showing the applications of RNN in different fields.
