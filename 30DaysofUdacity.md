@@ -159,3 +159,8 @@
  18/11/2019
  * Working on Back Propagation Through Time BPTT in Recurrent Neural Networks lesson.
  * Read some brilliant resources showing the applications of RNN in different fields.
+ 
+ ## Day 28:
+ * Completed watching LSTM lesson.
+ * Started watching Implementation of RNN in PyTorch.
+ 
