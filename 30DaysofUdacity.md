@@ -161,6 +161,11 @@
  * Read some brilliant resources showing the applications of RNN in different fields.
  
  ## Day 28:
+ 20/11/2019
  * Completed watching LSTM lesson.
  * Started watching Implementation of RNN in PyTorch.
+ 
+ ## Day 29:
+ 21/11/2019
+ * Working on Implementation of RNN using PyTorch.
  
