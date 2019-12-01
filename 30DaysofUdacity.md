@@ -169,3 +169,8 @@
  21/11/2019
  * Working on Implementation of RNN using PyTorch.
  
+ ## Day 30:
+ 22/11/2019
+ * Did some hands-on with RNNs using PyTorch.
+ * Completed the Simple_RNN.ipynb for Time-Series prediction on a simple cosine wave using RNN.
+ 
