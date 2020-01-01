@@ -174,3 +174,5 @@
  * Did some hands-on with RNNs using PyTorch.
  * Completed the Simple_RNN.ipynb for Time-Series prediction on a simple cosine wave using RNN.
  
+ just a commit to show my activity on git for 01/01/2020 :)
+ 
